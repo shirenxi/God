@@ -2,7 +2,7 @@ package com.srx.ci;
 
 public class God {
 	
-	private String name = "Hello,I am god! Test auto";
+	private String name = "Hello,I am god! Test auto@";
 	
 	public String getName() {
 		return name;
